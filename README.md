@@ -17,6 +17,6 @@ Tips:
 
 Choose from the following:
 
-- [Netflix](./images/netflix.png)
-- [Whatsapp](./images/whatsapp.png)
-- [Spotify](./images/spotify.png)
+![Netflix](./images/netflix.png)
+![Whatsapp](./images/whatsapp.png)
+![Spotify](./images/spotify.png)
